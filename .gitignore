@@ -1,0 +1,5 @@
+sources.txt
+destination.txt
+rclone-backup.code-workspace
+rclone-backup.sh
+filter.txt
